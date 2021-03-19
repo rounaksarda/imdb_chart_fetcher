@@ -1,7 +1,7 @@
 # imdb_chart_fetcher
 Get the JSON response from imdb
 
-This is the assignment question, I was asked for hiring.
+This is the assignment question, I was asked in hiring challenge.
 
 The question asked by the company is as:
 -----------------------------------------------------------------------------------
